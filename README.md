@@ -1,8 +1,7 @@
 # python-api-challenge
-Module 6 Challenge
 
-Consulted Ryaln Ellison to understand and create "def" for each linear regression for each graph, in addition, fixed a typo in the for loop.
+This project involved with creating a Python script to visualize the weather of over 500 cities of varying distances from the equator after perfoming an API call.
 
-https://apidocs.geoapify.com/docs/places/ <<< to get category under this key, accommodation.hotel.
-
-Tutor session with Ashia Braxton to go over parameter setup for 2nd part of the challenge, VacationPy.
+Analese conducted:
+Plots to Showcase the Relationship Between Weather Variables and Latitude with Linear Regression for each relationship.
+Latitude vs. Temperature; Latitude vs. Humidity; Latitude vs. Cloudiness; Latitude vs. Wind Speed.
